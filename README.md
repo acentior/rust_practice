@@ -1,2 +1,2 @@
 # rust_practice
-rust practice course by me
+rust practice course by myself
