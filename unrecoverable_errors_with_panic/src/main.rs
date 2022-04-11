@@ -4,8 +4,8 @@ fn main() {
 
     v[99];
 
-    /**
-     * In cmd
-     * set RUST_BACKTRACE=1
-     */
+    //
+    // In cmd
+    // set RUST_BACKTRACE=1
+    //
 }
